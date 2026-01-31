@@ -4,3 +4,4 @@ Third Commit
 Fourth Commit
 Sixth Commit
 This text file is Stashed
+Changed from master branch to new-master branch
